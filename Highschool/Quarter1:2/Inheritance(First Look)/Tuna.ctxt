@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tuna()
+comment1.params=t\ c
+comment1.target=Tuna(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ typeMeal()
+comment3.params=
+comment3.target=int\ getCalories()
+numComments=4

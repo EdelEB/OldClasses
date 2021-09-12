@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="data" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="value"/>
+			<item value="deleteRecursive"/>
+			<item value="containsNodeRecursive"/>
+			<item value="kidsRight"/>
+			<item value="Node"/>
+			<item value="&gt;0"/>
+			<item value="z"/>
+			<item value="Sxstem"/>
+			<item value="y"/>
+			<item value="x"/>
+		</list>
+		<list key="replacehistory">
+			<item value="data"/>
+			<item value="remove"/>
+			<item value="search"/>
+			<item value="childCount"/>
+			<item value="&gt;=0"/>
+			<item value="y"/>
+			<item value="System"/>
+			<item value="x"/>
+			<item value="z"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="294" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="408" key="DIALOG_HEIGHT"/>
+		<item value="573" key="DIALOG_X_ORIGIN"/>
+		<item value="154" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

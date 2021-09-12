@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=theName\ coll\ RushTDs
+comment0.target=RunningBacks(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ printCollege()
+numComments=3

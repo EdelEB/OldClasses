@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getGreeting()
+comment1.params=statement
+comment1.target=java.lang.String\ getResponse(java.lang.String)
+comment2.params=statement\ goal\ startPos
+comment2.target=int\ findKeyword(java.lang.String,\ java.lang.String,\ int)
+comment3.params=statement\ goal
+comment3.target=int\ findKeyword(java.lang.String,\ java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ transformIWantStatement(java.lang.String)
+comment5.params=str
+comment5.target=java.lang.String\ transformIYouStatement(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getRandomResponse()
+numComments=7

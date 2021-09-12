@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ gpa\ grade
+comment0.target=MiddleSchool(java.lang.String,\ double,\ int)
+comment1.params=
+comment1.target=boolean\ gradRequirements()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ c\ r\ ry\ rtd
+comment0.target=TightEnd(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ printCollege()
+numComments=2

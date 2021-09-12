@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ p\ s
+comment0.target=SkiJumper(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ fly()
+comment2.params=h
+comment2.target=void\ train(double)
+numComments=3

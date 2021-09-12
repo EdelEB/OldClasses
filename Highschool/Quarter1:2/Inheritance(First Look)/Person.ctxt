@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Person()
+comment1.params=age
+comment1.target=void\ setAge(int)
+comment2.params=
+comment2.target=int\ getAge()
+comment3.params=
+comment3.target=void\ haveBirthday()
+comment4.params=
+comment4.target=void\ saySomething()
+numComments=5

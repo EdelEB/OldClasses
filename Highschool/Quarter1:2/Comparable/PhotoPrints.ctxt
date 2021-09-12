@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numPrints
+comment0.target=PhotoPrints(int)
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment2.params=
+comment2.target=double\ getCost()
+numComments=3

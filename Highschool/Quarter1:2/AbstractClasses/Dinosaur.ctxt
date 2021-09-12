@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dinosaur()
+comment1.params=name
+comment1.target=Dinosaur(java.lang.String)
+comment2.params=name\ hunger
+comment2.target=Dinosaur(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ roar()
+comment4.params=
+comment4.target=boolean\ getHungry()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

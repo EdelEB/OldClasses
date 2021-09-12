@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=FunNumber(int)
+comment1.params=n
+comment1.target=FunNumber(java.lang.String)
+comment2.params=
+comment2.target=int\ sumDigits()
+comment3.params=
+comment3.target=int\ numDigits()
+comment4.params=
+comment4.target=boolean\ isPerfect()
+comment5.params=
+comment5.target=java.lang.String\ reverseNum()
+numComments=6

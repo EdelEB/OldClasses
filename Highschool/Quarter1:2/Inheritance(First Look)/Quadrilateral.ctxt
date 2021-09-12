@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s1\ s2\ s3\ s4\ t
+comment0.target=Quadrilateral(double,\ double,\ double,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=make\ model\ year\ miles\ sus
+comment0.target=StationWagon(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getSuspension()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

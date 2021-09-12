@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Friends()
+comment1.params=
+comment1.target=java.util.ArrayList\ getFriends()
+comment2.params=friendList
+comment2.target=void\ setFriends(java.util.ArrayList)
+comment3.params=first\ last
+comment3.target=void\ addFriend(java.lang.String,\ java.lang.String)
+comment4.params=first\ last
+comment4.target=boolean\ findFriend(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ displayFriends()
+comment6.params=
+comment6.target=Friend\ findFriendWithLongestLastName()
+numComments=7

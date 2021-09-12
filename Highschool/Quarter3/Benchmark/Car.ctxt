@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=make\ model\ year\ miles
+comment0.target=Car(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getMPG()
+comment2.params=other
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

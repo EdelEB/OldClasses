@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ln\ fn\ jt\ bp\ ch\ cr
+comment0.target=Lawyer(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int,\ double)
+comment1.params=
+comment1.target=void\ yearlyPay()
+numComments=2

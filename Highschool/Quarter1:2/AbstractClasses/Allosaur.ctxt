@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Allosaur()
+comment1.params=n
+comment1.target=Allosaur(java.lang.String)
+comment2.params=n\ h
+comment2.target=Allosaur(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ roar()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

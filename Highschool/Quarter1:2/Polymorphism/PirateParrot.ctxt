@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=PirateParrot(java.lang.String)
+comment1.params=a
+comment1.target=void\ stealSoul(int)
+comment2.params=s
+comment2.target=void\ train(java.lang.String)
+numComments=3

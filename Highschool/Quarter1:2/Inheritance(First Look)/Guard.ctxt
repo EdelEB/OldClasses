@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ln\ fn\ jt\ bp\ s
+comment0.target=Guard(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=
+comment1.target=void\ yearlyPay()
+numComments=2

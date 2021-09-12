@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numbers\ num
+comment0.target=void\ replaceAll(int[],\ int)
+comment1.params=names
+comment1.target=void\ lastWord(java.lang.String[])
+numComments=2

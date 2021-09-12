@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Skeleton()
+comment1.params=n\ s
+comment1.target=Skeleton(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=other
+comment4.target=boolean\ isBigger(Monster)
+comment5.params=other
+comment5.target=boolean\ isSmaller(Monster)
+comment6.params=other
+comment6.target=boolean\ namesTheSame(Monster)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Purse()
+comment1.params=aCoin
+comment1.target=void\ add(Coin)
+comment2.params=
+comment2.target=double\ getTotal()
+comment3.params=aCoin
+comment3.target=int\ count(Coin)
+comment4.params=
+comment4.target=java.lang.String\ findSmallest()
+numComments=5

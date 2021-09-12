@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ w\ i\ GPA
+comment0.target=Student(java.lang.String,\ double,\ int,\ double)
+comment1.params=
+comment1.target=double\ getGpa()
+comment2.params=
+comment2.target=void\ attendClass()
+comment3.params=
+comment3.target=void\ sleep()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=TableTop(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment2.params=
+comment2.target=double\ getCost()
+numComments=3

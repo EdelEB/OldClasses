@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=make\ model\ year\ ton\ purp
+comment0.target=GarbageTruck(java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getPurpose()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

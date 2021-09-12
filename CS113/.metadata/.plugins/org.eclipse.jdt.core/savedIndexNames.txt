@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+/Users/edelebarcenas/Desktop/College/Classes/CS113/.metadata/.plugins/org.eclipse.jdt.core
+4096554113.index
+1988940250.index
+575340225.index
+2659613224.index
+2710549243.index
+2200650775.index
+2926646759.index
+438441389.index
+3726369128.index
+3408485364.index
+3046647625.index
+1887968004.index
+930628701.index
+3917564606.index
+491770292.index
+3152933518.index
+1082094795.index
+874598921.index
+14872459.index
+2837238270.index
+4154239352.index

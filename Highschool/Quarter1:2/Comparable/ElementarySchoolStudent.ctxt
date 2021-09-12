@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=w\ n
+comment0.target=ElementarySchoolStudent(int,\ java.lang.String)
+comment1.params=other
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getWorkEthic()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

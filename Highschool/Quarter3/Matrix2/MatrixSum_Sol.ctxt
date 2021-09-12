@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=mat
+comment0.target=int\ sumMat(int[][])
+comment0.text=\n\ \ method\ sumMat\ should\ sum\ all\ values\n\ \ in\ matrix\ mat\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

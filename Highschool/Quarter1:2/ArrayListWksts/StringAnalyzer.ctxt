@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=boolean\ hasMoreVowelsThanConsonants(java.lang.String)
+comment1.params=words
+comment1.target=void\ stringRemoverMachine(java.util.List)
+numComments=2

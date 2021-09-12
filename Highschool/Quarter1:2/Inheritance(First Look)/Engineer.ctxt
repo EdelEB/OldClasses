@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ln\ fn\ jt\ bp\ tr\ tt\ hp
+comment0.target=Engineer(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int,\ int,\ int)
+comment1.params=tt
+comment1.target=void\ addTravelTime(int)
+comment2.params=hp
+comment2.target=void\ setHazardPay(int)
+comment3.params=
+comment3.target=void\ yearlyPay()
+numComments=4
